@@ -3,4 +3,4 @@
   collections:
     - nginxinc.nginx_core
   roles:
-    - role: ansible-role-nginx
+    - role: nginx
